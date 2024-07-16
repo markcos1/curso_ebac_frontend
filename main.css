@@ -80,7 +80,7 @@ section h2{
 
 .container{
     width: 1366px;
-    margin: 0 none;
+    margin: 0 auto;
 }
 .newarticles{
     display: flex;
